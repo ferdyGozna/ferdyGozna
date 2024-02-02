@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there, I'm Ferdy Gozna! 👋
 
-<!--
-**ferdyGozna/ferdyGozna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Java developer with a love for creating efficient and scalable software solutions. Currently, I'm diving deep into the world of Java development, exploring new technologies, and solving real-world problems.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Framework
+- Git
+- SQL
+- IntelliJ IDEA
+
+## 🌱 Currently Learning
+
+- Advanced Spring features
+- Microservices architecture
+- Cloud computing with AWS
+
+## 📫 Let's Connect
+
+- LinkedIn: [Ferdy Gozna](https://www.linkedin.com/in/ferdygozna/)
+- Twitter: [@ferdyGozna](https://twitter.com/ferdyGozna)
+
+## 💻 Check Out My Repositories
+
+Feel free to explore some of my projects and contributions. I'm always open to collaboration and feedback!
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferdyGozna&show_icons=true&hide=contribs,prs&theme=radical)](https://github.com/ferdyGozna)
+
+Happy coding! 🚀
